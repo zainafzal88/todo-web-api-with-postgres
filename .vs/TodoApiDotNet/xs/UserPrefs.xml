@@ -1,0 +1,31 @@
+﻿<Properties GitUserInfo="UsingMD" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TodoApiDotNet/Controllers/TodoItemsController.cs">
+    <Files>
+      <File FileName="TodoApiDotNet/Program.cs" Line="8" Column="36" />
+      <File FileName="TodoApiDotNet/Models/TodoItem.cs" Line="1" Column="1" />
+      <File FileName="TodoApiDotNet/Models/TodoContext.cs" Line="15" Column="37" />
+      <File FileName="TodoApiDotNet/Controllers/TodoItemsController.cs" Line="22" Column="30" />
+      <File FileName="TodoApiDotNet/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="TodoApiDotNet/appsettings.Development.json" />
+      <File FileName="TodoApiDotNet/Startup.cs" Line="25" Column="39" />
+      <File FileName="TodoApiDotNet/appsettings.json" Line="14" Column="2" />
+      <File FileName="TodoApiDotNet/Properties/launchSettings.json" Line="13" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TodoApiDotNet" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>TodoApiDotNet/TodoApiDotNet.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
